@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Vår, nice to meet you etc. </h1>
-<h3 align="center">Student at 42 Barcelona!</h3>
+<h3 align="center">Student at 42 Barcelona</h3>
 
 - Currently working on **Get_next_line**
 
