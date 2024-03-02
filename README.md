@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vår</h1>
+<h1 align="center"> I'm Vår</h1>
 <h3 align="center">Student at 42 Barcelona!</h3>
 
-- 🔭 I’m currently working on **Get_next_line**
+- Currently working on **Get_next_line**
 
-- 🌱 I’m currently learning **C**
+-  Learning **C**
 
 - 📫 How to reach me **vaar.aunevik@gmail.com**
+<break>
+Don't take my code too seriously please.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
