@@ -14,7 +14,7 @@
 
 <break>
 
-[![Varaunevik's GitHub Streak](https://streak-stats.demolab.com?user=varaunevik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/yowcloud) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=varaunevik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/varaunevik) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
