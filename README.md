@@ -8,8 +8,13 @@
 
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif?cid=ecf05e47h0nsslwlqh1qis575vmbm4k403pjvgo7vgli4vnu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500">:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varaunevik&layout=compact&theme=dark)
+<h2>Statistics</h2>
 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=varaunevik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/varaunevik?tab=repositories) 
+
+<break>
+
+[![Varaunevik's GitHub Streak](https://streak-stats.demolab.com?user=varaunevik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3)](https://github.com/yowcloud) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
