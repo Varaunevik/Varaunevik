@@ -1,8 +1,5 @@
 <h1 align="center"> Hey, I'm Vår </h1>
 
-- Student at 42 Barcelona
-- Currently working on **Philosophers**
-
 
 <break>
 
